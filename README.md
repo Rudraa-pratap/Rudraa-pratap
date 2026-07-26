@@ -11,7 +11,7 @@ I'm a Computer Science undergraduate (2025–2029) with a strong focus on buildi
 - 🎓 Pursuing B.Tech in Computer Science & Engineering
 - 💻 Building proficiency in **Java and Python**, with a growing interest in software development
 - 📚 Strengthening problem-solving through consistent **DSA practice**
-- 🎬 Additional skill set in **video editing (DaVinci Resolve)**, gained through independent content creation work
+- 🎬 Additional skill set in **video editing (DaVinci Resolve)** and basic video editing , gained through independent content creation work
 - 🎯 Actively working on projects to apply my learning to real-world problems
 - 🤝 Open to internship and entry-level opportunities in software development
 
